@@ -1,0 +1,28 @@
+[2022-03-02 16:12:32.950] [remoteagent] [info] 
+
+*
+* Visual Studio Code Server
+*
+* Reminder: You may only use this software with Visual Studio family products,
+* as described in the license https://aka.ms/vscode-remote/license
+*
+
+
+[2022-03-02 16:12:32.950] [remoteagent] [info] Extension host agent started.
+[2022-03-02 16:12:33.017] [remoteagent] [info] [::ffff:172.18.192.1][f7993ea2][ManagementConnection] New connection established.
+[2022-03-02 16:12:33.018] [remoteagent] [info] [::ffff:172.18.192.1][df982a46][ExtensionHostConnection] New connection established.
+[2022-03-02 16:12:33.696] [remoteagent] [info] [::ffff:172.18.192.1][df982a46][ExtensionHostConnection] <145> Launched Extension Host Process.
+[2022-03-02 17:27:40.501] [remoteagent] [info] [::ffff:172.18.192.1][f7993ea2][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-02 17:27:58.532] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-02 21:08:55.956] [remoteagent] [info] [::ffff:172.18.192.1][f7993ea2][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-02 21:08:55.957] [remoteagent] [info] [::ffff:172.18.192.1][f7993ea2][ManagementConnection] The client has reconnected.
+[2022-03-02 21:08:56.065] [remoteagent] [info] [::ffff:172.18.192.1][df982a46][ExtensionHostConnection] The client has reconnected.
+[2022-03-02 23:22:20.065] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-02 23:22:21.120] [remoteagent] [info] [::ffff:172.18.192.1][f7993ea2][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-03-02 23:22:39.569] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
+[2022-03-03 07:05:07.868] [remoteagent] [info] [::ffff:172.18.192.1][f7993ea2][ManagementConnection] Another client has connected, will shorten the wait for reconnection 5m before disposing...
+[2022-03-03 07:05:07.869] [remoteagent] [info] [::ffff:172.18.192.1][f7993ea2][ManagementConnection] The client has reconnected.
+[2022-03-03 07:07:53.421] [remoteagent] [info] [::ffff:172.18.192.1][df982a46][ExtensionHostConnection] The client has reconnected.
+[2022-03-03 07:07:55.180] [remoteagent] [info] [::ffff:172.18.192.1][f7993ea2][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-03-03 07:07:55.252] [remoteagent] [info] [::ffff:172.18.192.1][df982a46][ExtensionHostConnection] <145> Extension Host Process exited with code: 0, signal: null.
+[2022-03-03 07:07:55.253] [remoteagent] [info] Last EH closed, waiting before shutting down
