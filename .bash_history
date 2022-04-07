@@ -94,3 +94,113 @@ cd duSort
 . du_sort_03_2_1.sh -k hr5
 ls -l | sort -k 5nr
 . du_sort_03_2_1.sh -k 5nr
+cd duSort
+cd ..
+du
+cd ..
+ls
+cd julien
+ls
+cd duSort
+du
+ls
+du -a
+. du_sort_03_2_1.sh
+du
+du -cksh *
+du -sh
+du -bch
+du -sh
+. du_sort_03_2_1.sh
+. du_sort_03_2_1.sh -k 9nr
+. du_sort_03_2_1.sh -k 5nr
+. du_sort_03_2_1.sh -k 9nr
+. du_sort_03_2_1.sh -k 10nr
+. du_sort_03_2_1.sh -k 8nr
+. du_sort_03_2_1.sh -k 8n
+. du_sort_03_2_1.sh -k 9n
+. du_sort_03_2_1.sh -k 4n
+. du_sort_03_2_1.sh -k 4nr
+. du_sort_03_2_1.sh -k 5n
+. du_sort_03_2_1.sh -k 5nr
+cd ..
+cd variablen
+. variablen.sh
+echo $PWD
+echo $whoami
+echo $(whoami)
+echo $*
+echo $#
+. variablen.sh
+cd ..
+ps
+ps -a
+cd prozess
+. entscheidung.sh
+less
+ps | grep 
+ps | grep "ps"
+. aufgaben.sh ps
+. aufgabe.sh ps
+. aufgabe.sh
+. aufgabe.sh ps
+px
+ps
+. aufgabe.sh bash
+cd fileDiff
+. entscheidung.sh
+. entscheidung.sh hello jello
+Julien_Raedler_Vorbereitung_FileDiff.sh
+. Julien_Raedler_Vorbereitung_FileDiff.sh
+. Julien_Raedler_Vorbereitung_FileDiff.sh hello
+. Julien_Raedler_Vorbereitung_FileDiff.sh 1
+cd fileDiff
+. Julien_Raedler_Vorbereitung_FileDiff.sh 1
+ch fileDiff.sh
+cd fileDiff.sh
+cd fileDiff
+. Julien_Raedler_Vorbereitung_FileDiff.sh 1
+git
+cd fileDiff
+. Julien_Raedler_Vorbereitung_FileDiff.sh 1
+cat txt.txt
+cat text.txt
+. Julien_Raedler_Vorbereitung_FileDiff.sh 1
+cd fileDiff
+. u4_1_file_diff.sh fox.txt cat.txt
+cd ..
+cd zahlenRaten
+. 04_1_zahlen_raten.sh
+cd .
+cd ..
+cd umgestallten
+grep "
+Deflectors" Export.spl
+grep Loudspeaker Export.spl
+cut -d' ' -f1 Export.spl
+cut -d' ' -f1 ExportSmall.spl
+cut -f1 -d$'\t' ExportSmall.spl
+. script.sh
+cut -f 1 ExportSmall.spl
+awk -F, '$1 == 2' ExporSmall.spl
+awk -F, '$1 == 2' ExportSmall.spl
+awk -F, '$1 + 0 == 2' ExportSmall.spl
+awk -F, '$1 == "2"' ExportSmall.spl
+awk -F, '$1 == "2\r"' ExportSmall.spl
+awk -F, '$1 + 0 == 2' ExportSmall.spl
+awk -F, '$1 + 0 == 2' ExportSmall.spl | cut -f3-4
+awk -F, '$1 + 0 == 2' ExportSmall.spl | awk -F, '$2 + 0 == 0' | cut -f3-4
+awk -F, '$1 + 0 == 2' ExportSmall.spl | awk -F, '$2 + 0 == 0'
+awk -F, '$1 + 0 == 2 && $2 + 0 == 0' ExportSmall.spl
+awk -F, '$1 + 0 == 2' ExportSmall.spl > awk -F, '$2 + 0 == 0'
+awk -F, '$1 + 0 == 2' ExportSmall.spl | awk -F, '$2 + 0 == 0'
+awk -F, '$1 + 0 == 2 && $2 + 0 == 0' ExportSmall.spl | cut -f3-4
+awk -F, '$1 + 0 == 2 && $2 + 0 == 4' ExportSmall.spl | cut -f3-4
+awk -F, '$1 + 0 == 2 && $2 + 0 == 4' ExportSmall.spl
+awk -F, '$1 + 0 == 2 && int($2) == 4' ExportSmall.spl | cut -f3-4
+awk -F '\t' '$1 + 0 == 2 && int($2) == 4' ExportSmall.spl | cut -f3-4
+awk -F '\t' '$1 + 0 == 2 && int($2) == 0' ExportSmall.spl | cut -f3-4
+awk -F '\t' 'int($1) == 2 && int($2) == 0' ExportSmall.spl | cut -f3-4 | cut -c1
+awk -F '\t' 'int($1) == 2 && int($2) == 0' ExportSmall.spl | cut -f3-4 | cut -c1-
+awk -F '\t' 'int($1) == 2 && int($2) == 0' ExportSmall.spl | cut -f3-4 | sed '\''
+

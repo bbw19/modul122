@@ -1,0 +1,18 @@
+[2022-04-07 15:10:01.874] [remoteagent] [info] Extension host agent started.
+[2022-04-07 15:10:02.042] [remoteagent] [info] [127.0.0.1][777b61ec][ManagementConnection] New connection established.
+[2022-04-07 15:10:03.014] [remoteagent] [info] [127.0.0.1][704c6cb5][ExtensionHostConnection] New connection established.
+[2022-04-07 15:10:03.019] [remoteagent] [info] [127.0.0.1][704c6cb5][ExtensionHostConnection] <160> Launched Extension Host Process.
+[2022-04-07 15:10:06.263] [remoteagent] [info] Getting Manifest... ms-vscode.js-debug-companion
+[2022-04-07 15:10:06.264] [remoteagent] [info] Getting Manifest... ms-vscode.references-view
+[2022-04-07 15:10:06.505] [remoteagent] [info] Installing extension: ms-vscode.js-debug-companion
+[2022-04-07 15:10:06.513] [remoteagent] [info] Installing extension: ms-vscode.references-view
+[2022-04-07 15:10:07.522] [remoteagent] [info] Downloaded extension: ms-vscode.references-view /home/julien/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.references-view-0.0.89
+[2022-04-07 15:10:07.523] [remoteagent] [info] Downloaded extension: ms-vscode.js-debug-companion /home/julien/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.js-debug-companion-1.0.17
+[2022-04-07 15:10:07.558] [remoteagent] [info] Extracted extension to /home/julien/.vscode-server/extensions/.b990644d-e14a-4461-b0da-2911094595be: ms-vscode.references-view
+[2022-04-07 15:10:07.559] [remoteagent] [info] Extracted extension to /home/julien/.vscode-server/extensions/.6107f41c-dc9f-4473-aa02-afe883846e9d: ms-vscode.js-debug-companion
+[2022-04-07 15:10:07.565] [remoteagent] [info] Renamed to /home/julien/.vscode-server/extensions/ms-vscode.references-view-0.0.89
+[2022-04-07 15:10:07.566] [remoteagent] [info] Extracting completed. ms-vscode.references-view
+[2022-04-07 15:10:07.567] [remoteagent] [info] Renamed to /home/julien/.vscode-server/extensions/ms-vscode.js-debug-companion-1.0.17
+[2022-04-07 15:10:07.568] [remoteagent] [info] Extracting completed. ms-vscode.js-debug-companion
+[2022-04-07 15:10:07.570] [remoteagent] [info] Extension installed successfully: ms-vscode.references-view
+[2022-04-07 15:10:07.576] [remoteagent] [info] Extension installed successfully: ms-vscode.js-debug-companion

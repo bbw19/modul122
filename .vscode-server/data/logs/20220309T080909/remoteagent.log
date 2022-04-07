@@ -5,3 +5,5 @@
 [2022-03-09 13:38:27.727] [remoteagent] [warning] No ptyHost heartbeat after 6 seconds
 [2022-03-09 13:44:19.492] [remoteagent] [info] [127.0.0.1][af6f5eb7][ExtensionHostConnection] The client has reconnected.
 [2022-03-09 13:44:33.763] [remoteagent] [info] [127.0.0.1][0acde494][ManagementConnection] The client has reconnected.
+[2022-03-09 16:45:27.901] [remoteagent] [info] [127.0.0.1][0acde494][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-03-09 16:45:27.980] [remoteagent] [info] [127.0.0.1][af6f5eb7][ExtensionHostConnection] <160> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,6 @@
+[2022-03-26 08:12:56.676] [remoteagent] [info] Extension host agent started.
+[2022-03-26 08:12:56.818] [remoteagent] [info] [127.0.0.1][52ae9689][ManagementConnection] New connection established.
+[2022-03-26 08:12:56.826] [remoteagent] [info] [127.0.0.1][8ea942fd][ExtensionHostConnection] New connection established.
+[2022-03-26 08:12:57.486] [remoteagent] [info] [127.0.0.1][8ea942fd][ExtensionHostConnection] <143> Launched Extension Host Process.
+[2022-03-26 13:04:47.960] [remoteagent] [info] [127.0.0.1][52ae9689][ManagementConnection] The client has reconnected.
+[2022-03-26 13:04:48.037] [remoteagent] [info] [127.0.0.1][8ea942fd][ExtensionHostConnection] The client has reconnected.
