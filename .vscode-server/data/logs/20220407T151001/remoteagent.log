@@ -16,3 +16,5 @@
 [2022-04-07 15:10:07.568] [remoteagent] [info] Extracting completed. ms-vscode.js-debug-companion
 [2022-04-07 15:10:07.570] [remoteagent] [info] Extension installed successfully: ms-vscode.references-view
 [2022-04-07 15:10:07.576] [remoteagent] [info] Extension installed successfully: ms-vscode.js-debug-companion
+[2022-04-07 18:08:54.306] [remoteagent] [info] [127.0.0.1][777b61ec][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+[2022-04-07 18:08:54.382] [remoteagent] [info] [127.0.0.1][704c6cb5][ExtensionHostConnection] <160> Extension Host Process exited with code: 0, signal: null.

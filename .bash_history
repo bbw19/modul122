@@ -204,3 +204,60 @@ awk -F '\t' 'int($1) == 2 && int($2) == 0' ExportSmall.spl | cut -f3-4 | cut -c1
 awk -F '\t' 'int($1) == 2 && int($2) == 0' ExportSmall.spl | cut -f3-4 | cut -c1-
 awk -F '\t' 'int($1) == 2 && int($2) == 0' ExportSmall.spl | cut -f3-4 | sed '\''
 
+cd umgestallten
+awk -F '\t' 'int($1) == 2 && int($2) == 0' ExportSmall.spl | cut -f3-4 | tr -d \'
+awk -F '\t' 'int($1) == 2 && int($2) == 0' ExportSmall.spl | cut -f3-4 | tr -d \' | sort
+awk -F '\t' 'int($1) == 2 && int($2) == 0' ExportSmall.spl | cut -f3-4 | tr -d \' | sort | uniq
+cd umgestalleten
+cd umgestallten
+. script.sh
+cd duSort
+cd ..
+ls -r
+ls -tr
+ls -ltr
+du -c
+du -cksh *
+du -hd0
+du -h -d 1
+du -hs */
+ps -ef vlt
+ps -f vlt
+ps
+ps -a -u $(whoami)
+ps -a -u $(whoami) | wc -l
+echo "hand" > test.txt
+du -s
+du -s *
+du -s * | sort
+du -s * | sort -n
+du -s * | sort -k 2
+du -s * | sort -r
+du -s * | sort -kr 1
+du -s * | sort -r 1
+du -s * | sort -h
+du -s * | sort -hr
+ps -ef
+du -s * | sort -k 2
+du -s * | sort -k2
+du -h
+du -s
+du -hs
+ps -u $(whoami)
+ps -e -u $(whoami)
+ps -u $(whoami) | wc -l
+ls -ltr
+du -s * | sort
+du -s * | sort -h
+du -s * | sort -hr
+du -s * | sort -h
+du -s * | sort -hr
+ls
+cd ..
+ls
+cd home/
+ls
+cd julien/
+cd ..
+ls$
+ls
