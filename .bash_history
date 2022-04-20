@@ -261,3 +261,70 @@ cd julien/
 cd ..
 ls$
 ls
+git
+git branch
+. backup.sh
+crontab -l
+crontab -e
+$date
+$(date)
+. backup.sh
+crontab -l
+sudo crontab -e
+crontab -l
+sudo crontab -l
+crontab -e
+nano /etc/crontab
+sudo nano /etc/crontab
+crontab -l
+chmod u+x backup.sh
+crontab -e
+start cron
+service cron status
+service cron start
+sudo service cron status
+sudo service cron start
+crontab -e
+sudo service cron status
+crontab -l
+sudo crontab -e
+sudo service cron status
+sudo service cron start
+sudo service cron status
+. backup.sh
+sudo crontab -e
+tar -tzvf /home/julien/Backups/DESKTOP-RJ021N5-Tuesday.tgz
+sudo service cron status
+sudo service cron stop
+sudo service cron status
+echo $USER
+sudo service cron start
+sudo service cron stop
+. backup.sh
+. lrncntr.sh
+printf '%s Vogel' {brauner,gelber,blauer}
+printf '%s Vogel ' {brauner,gelber,blauer}
+2 + 3
+echo 2 + 3
+echo [2 + 2]
+echo {2 + 2}
+echo $((20+5))
+? ($x, $y) { echo $(($x+$y)) }
+? () { echo $(($1+$2)) } ;
+myfc () { echo $(($1+$2)) } ;
+function myfc () { echo $(($1+$2)) } ;
+print_something () { echo Hello; }
+print_something
+print_something () { echo Hello $1; }
+print_something world
+? () { echo $1+$2; }
+? 2 2
+? () { echo $(($1+$2)); }
+? 2 2
+cd textProcessing
+. umleitung.sh
+touch bbw.txt
+> bbw.txt
+echo {a..z}
+echo {20..-5}
+for x in {'brauner', 'gelber', 'blauer'} do echo x + ' Vogel'
