@@ -33,10 +33,18 @@ Beim manuellen Aufrufen des Skripts wird nach jedem Erfolgreichen Backup eine Be
 
 Erstellen des Skripts mit der Logik zum erstellen der Backups (backup.sh).
 Mach das Skript ausführbar
-: chmod u+x backup.sh
+```
+chmod u+x backup.sh
+```
 Erstellen des Cronjobs. 
-: sudo crontab -e
-: 30 16 * * * bash /home/julien/backup.sh
-: (Minuten Stunden TagDesMonats Monat TagDerWoche Skript)
-: sudo service cron start
-: (sudo service cron status) um den Status zu sehen
+```
+sudo crontab -e
+```
+(Minuten Stunden TagDesMonats Monat TagDerWoche Skript)
+```
+30 16 * * * bash /home/julien/backup.sh
+```
+(sudo service cron status) um den Status zu sehen
+```
+sudo service cron start
+```
